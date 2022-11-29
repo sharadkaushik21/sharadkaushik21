@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sharad
 - This is short summary about me:
 - 💻 I’m currently working with Hays as a software engineer
-- 🌱 I’m currently learning Data Structures , Algorithm and System Design.
+- 🌱 I’m currently learning Data Structures , Algorithms and System Design.
 - 📫 How to reach me: sksharadkaushik79@gmail.com 
